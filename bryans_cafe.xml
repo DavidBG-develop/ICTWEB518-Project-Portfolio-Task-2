@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/bryans_cafe.xsl"?>
+<menu>
+    <item>
+        <name>Beetroot and Feta Salad</name>
+        <price>$15.00</price>
+        <description>Suitable for vegetarians, made with fresh beetroot</description>
+        <image>images/Beetroot_and_Feta_Salad.gif</image>
+    </item>
+</menu>
